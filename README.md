@@ -1,2 +1,2 @@
 # prova-sd
-AP de Sistemas Distribuídos
+AP II de Sistemas Distribuídos
